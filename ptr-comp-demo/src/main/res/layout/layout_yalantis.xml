@@ -9,11 +9,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <ListView
+        <com.desmond.common.ClassicListView
             android:id="@+id/yalantis_list_view"
             android:divider="@null"
             android:dividerHeight="0dp"
-            android:padding="10dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
